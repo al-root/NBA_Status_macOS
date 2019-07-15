@@ -1,2 +1,2 @@
-# NBA_Status_macOS
+# NBA Statusbar app
 Status bar macOS widget for NBA scores/stats
